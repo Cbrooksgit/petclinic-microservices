@@ -1105,7 +1105,7 @@ git branch feature/msp-15
 git checkout feature/msp-15
 ```
 
-- Create a folder for kubernetes infrastructure with the name of `w` under the `infrastructure` folder.
+- Create a folder for kubernetes infrastructure with the name of `dev-k8s-terraform` under the `infrastructure` folder.
 
 - Prepare a terraform file for kubernetes Infrastructure consisting of 1 master, 2 Worker Nodes and save it as `main.tf` under the `infrastructure/dev-k8s-terraform`.
 
